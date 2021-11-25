@@ -290,7 +290,7 @@ namespace UserRegistration
             }
         }
         [TestMethod]
-        public void TestEmail_NullException()                   //argument null excewption
+        public void TestEmail_NullException()                   //argument null excewption.
         {
             try
             {

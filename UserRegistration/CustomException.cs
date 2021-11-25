@@ -12,7 +12,7 @@ namespace UserRegistration
         /// enum for exception type
         /// enums are like constant values which are numeric integer numbers which either the user assigns or default starting from  0,1,2...
         /// </summary>
-
+        ///er
         public ExceptionType type;
         public enum ExceptionType
         {

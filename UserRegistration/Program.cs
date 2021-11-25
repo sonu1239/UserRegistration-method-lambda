@@ -33,7 +33,7 @@ namespace UserRegistration
             RegexValidate.MobileNumValid(MobileNo);
             Console.ReadLine();
 
-            Console.Write("Enter password: ");   //taking user input of password1
+            Console.Write("Enter password: ");   //taking user input of password1 11
             string password1 = Console.ReadLine();
             RegexValidate.PassWord(password1);
             Console.ReadLine();
